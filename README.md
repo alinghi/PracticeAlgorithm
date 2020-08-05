@@ -14,5 +14,7 @@ Collection of program for self algorithm training.
 
 ---
 
-[Design HashSet](/leetcode/DesignHashSet.py)
-[Valid Palindrome](leetcode\ValidPalindrome.py)
+#### August LeetCoding Challenge
+
+- [8월 3일 Design HashSet](/leetcode/DesignHashSet.py)
+- [8월 4일 Valid Palindrome](leetcode/ValidPalindrome.py)
