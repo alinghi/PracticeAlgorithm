@@ -4,6 +4,13 @@ Collection of program for self algorithm training.
 코딩 테스트 연습한 것 모음집
 자동 업로드(CSRF 검증 막힌거는 수동)
 
+---
+
+[백준](README.md#백준에서-코딩한-프로그램-모음)"
+[리트코드](README.md#리트코드leetcode에서-코딩한-프로그램-모음)
+
+---
+
 ## 백준에서 코딩한 프로그램 모음
 
 ---
