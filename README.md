@@ -6,7 +6,8 @@ Collection of program for self algorithm training.
 
 ---
 
-[백준](README.md#백준에서-코딩한-프로그램-모음)"
+[백준](README.md#백준에서-코딩한-프로그램-모음)
+
 [리트코드](README.md#리트코드leetcode에서-코딩한-프로그램-모음)
 
 ---
